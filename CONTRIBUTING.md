@@ -10,8 +10,10 @@ Determine what category it falls into.
 ## WHEN YOU SUBMIT
 * Capitalize titles.
 * List alphabetically for searchability.
-* Proof read your entry
-* Use the following template:
+* Proofread your entry.
+* Explain any jargon in your entry.
+* Make sure your entry can be understood by a variety of backgrounds.
+* For lists of resources, use the following template:
 
 ```
  - [Name](link)
