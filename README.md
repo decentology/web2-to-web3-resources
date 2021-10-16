@@ -76,6 +76,18 @@ Flow's [GitHub repositories](https://github.com/onflow)
   - Cadence is a resource-oriented programming language that introduces new features to smart contract programming that help developers ensure that their code is safe, secure, clear, and approachable.
 
 ## Polygon 
+*Polygon is a sidechain based scaling solution for public blockchains. It is based on an adapted implementation of Plasma framework. Polygon provides scalability while ensuring a superior user experience in a secured and decentralized manner.*
+
+Polygon's [Github repositories](https://github.com/0xPolygon)
+
+### Tutorials & Guides
+- [How to set up IBFT locally](https://sdk-docs.polygon.technology/docs/how-tos/howto-setup-ibft/howto-set-ibft-locally)
+- [Building Scalable Dapps on Polygon](https://www.youtube.com/watch?v=WQ1L5cqe8xA)
+- [Polygon FAQs](https://docs.polygon.technology/docs/home/faq)
+
+### Docs
+- [Application Development on Polygon](https://docs.polygon.technology/docs/develop/getting-started/)
+  - A comprehensive guide on developing with the Polygon Blockchain, including workflow for migrating your current dApp, or building from one from scratch.
 
 ## Solana 
 
