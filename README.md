@@ -25,6 +25,7 @@ At [Decentology](https://www.decentology.com/) one of our goals is to make block
 | **Smart Contract** | the code executed on a blockchain. |
 | **Dapp** | A computer application that runs on a distributed computing system. If you’ve ever developed “serverless” apps on Azure or Amazon this is a similar concept. |
 | **Solidity** | An object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum. Solidity is similar to JavaScript. |
+| **Gas Fees**| Cost associated with getting your data written to a blockchain|
 
 # Non-Fungible Tokens
 ([Go to top](#web2-to-web3-resources))
