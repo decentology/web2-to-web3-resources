@@ -15,7 +15,31 @@ At [Decentology](https://www.decentology.com/) one of our goals is to make block
 # FAQs
 ([Go to top](#web2-to-web3-resources))
 
-1. What is Web3?
+#### What are the main components of a decentralized application?
+A decentralized application has three main components:
+* **The front end**: Takes input from the user and builds the requests to be sent to the smart contracts.
+* **The wallet**: Signs transactions and sends them to the network.
+* **Smart contracts**: Here is where you write the business logic of the dapp.
+
+
+#### What is staking? 
+Staking is the process of delegating or locking up crypto holdings to earn rewards. Some of the rewards you can earn from staking are earning additional tokens and getting some voting rights. Staking has the added benefit of contributing to the security and efficiency of the blockchain projects you support. By staking some of your funds, you make the blockchain more resistant to attacks and strengthen its ability to process transactions. [Business Insider](https://www.businessinsider.com/staking-crypto) 
+
+#### What is the difference between “proof of stake” and “proof of work”?
+Proof of Work: Proof of Work is the process where miners compete to solve complex cryptographic puzzles, by investing massive computational power using high-end hardware and a ridiculous amount of energy consumption. In return, the miner who solves the problem is rewarded with a token. Proof of Stake: Proof of Stake is an alternative to Proof of Work, where there is no direct competition between the miners and someone is randomly chosen to “validate” a block. The probability of becoming a validator increases depending on how much stake you have in the blockchain i.e. how many tokens of the blockchain you own.[101 Blockchains](https://101blockchains.com/blockchain-developer-interview/)
+
+#### What is EVM? 
+Ethereum Virtual Machine (EVM) is a computation engine which acts like a decentralized computer that has millions of executable projects. It acts as the virtual machine which is the bedrock of Ethereum's entire operating structure.Ethereum Virtual Machine does the following checks whenever there is a transaction:
+1. Confirms if a transaction has the correct number of values, the validity of the signature as well as whether the transaction nonce matches the nonce of that particular transaction account. If there is a mismatch, the transaction will be returned as an error.
+2. Calculates the transaction fee required and initializes the gas payment.
+3. Executes the transfer of the required amount of digital assets to the assigned address. [101 Blockchains](https://101blockchains.com/blockchain-developer-interview/)
+
+#### What is a smart contract?
+A smart contract is a simple, self-executing piece of code stored on a blockchain that runs when predetermined conditions are met. In smart contracts, the terms of the agreement between buyer and seller are directly written into lines of code. [Investopedia](https://www.investopedia.com/terms/s/smart-contracts.asp)
+
+#### What are the benefits of a smart contract?
+Trust, reliability, security, efficiency
+
 
 # Glossary
 ([Go to top](#web2-to-web3-resources))
