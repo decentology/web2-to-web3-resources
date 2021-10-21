@@ -121,7 +121,19 @@ Polygon's [Github repositories](https://github.com/0xPolygon)
   - A comprehensive guide on developing with the Polygon Blockchain, including workflow for migrating your current dApp, or building from one from scratch.
 
 ## Solana 
+*Solana which was introduced in 2017 is a blockchain and cryptocurrency that leverages an open infrastructure to provide greater scalability. The network’s architecture was structured to be expandable and resilient to censorship. This trustless and distributed blockchain tackles both transaction settlement speed concerns and bandwidth via this design. Solana supports writing on-chain programs using the Rust programming language.*
 
+Solana's [Github repositories](https://github.com/solana-labs/solana)
+
+### Tutorials & Guides
+- [Introduction to Solana](https://docs.solana.com/introduction)
+- [Deep dive into Solana](https://www.notboring.co/p/solana-summer?token=eyJ1c2VyX2lkIjoxMTQ2MTQyLCJwb3N0X2lkIjo0MDMzNDY4MiwiXyI6InMvYk1oIiwiaWF0IjoxNjM0ODA5MjA3LCJleHAiOjE2MzQ4MTI4MDcsImlzcyI6InB1Yi0xMDAyNSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.McJK9BYIu27nn_wrOy916A22T90DSO4Bh_GikKHFJ3A)
+- [Building dApps on Solana](https://learn.figment.io/protocols/solana)
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/#building-the-escrow-program-alice-s-transaction)
+
+### Docs
+- [Introduction to Rust](https://doc.rust-lang.org/book/)
+- Rust is a statically typed, multi-paradigm programming language that allows developers build programs (smart contracts) on the Solana blockchaim. It was built with safety, speed, and efficiency in mind. 
 ## Conflux
 
 
