@@ -40,6 +40,9 @@ A smart contract is a simple, self-executing piece of code stored on a blockchai
 #### What are the benefits of a smart contract?
 Trust, reliability, security, efficiency
 
+### Video & Audio Resources
+- [How is web3 development different from web2](https://www.youtube.com/watch?v=psYactRankc)
+
 
 # Glossary
 ([Go to top](#web2-to-web3-resources))
