@@ -10,6 +10,7 @@ At [Decentology](https://www.decentology.com/) one of our goals is to make block
 * [Cryptocurrency](#cryptocurrency)
 * [Decentralized Autonomous Organizations (DAOs)](#decentralized-autonomous-organizations)
 * [Tutorials, Guides, & Docs](#tutorials-guides-docs)
+* [Web3 and Blockchain Resource Collections](#web3-and-blockchain-resource-collections)
 
 
 # FAQs
@@ -139,5 +140,6 @@ Solana's [Github repositories](https://github.com/solana-labs/solana)
 - Rust is a statically typed, multi-paradigm programming language that allows developers build programs (smart contracts) on the Solana blockchaim. It was built with safety, speed, and efficiency in mind. 
 ## Conflux
 
-
+# web3 and blockchain resource collections
+([Go to top](#web3-and-blockchain-resource-collections))
 
