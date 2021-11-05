@@ -140,6 +140,36 @@ Solana's [Github repositories](https://github.com/solana-labs/solana)
 - Rust is a statically typed, multi-paradigm programming language that allows developers build programs (smart contracts) on the Solana blockchaim. It was built with safety, speed, and efficiency in mind. 
 ## Conflux
 
-# web3 and blockchain resource collections
+# Web3 and Blockchain Resource Collections
 ([Go to top](#web3-and-blockchain-resource-collections))
+
+- [Consensys Academy](https://consensys.net/academy/)
+- [The Blockchain school](Theblockchainschool.io)
+- [Web3devs.com](https://web3devs.com)
+- [Blockchain Berkeley](https://blockchain.berkeley.edu)
+- [Eat the blocks](https://eattheblocks.com)
+- [Kerala Blockchain Academy](https://kba.ai)
+- [Encode.club](https://encode.club)
+- [Bloxroute](https://bloxroute.com/)
+- [Ethtx](https://ethtx.info)
+- [Chainshot](https://www.chainshot.com/)
+- [Tenderly](https://dashboard.tenderly.co)
+- [Money legos](https://money-legos.studydefi.com/)
+- [Duneanalytics](https://duneanalytics.com/)
+- [Ethfiddle](https://ethfiddle.com/)
+- [UseWeb3](https://useweb3.xyz)
+- [101 Blockchains](https://101blockchains.com)
+- [Blockgeeks](https://blockgeeks.com)
+- [Blockonomi](https://blockonomi.com)
+- [Buildspace](https://buildspace.so)
+- [EthereumDev](https://ethereumdev.io/)
+- [ProtoSchool](https://proto.school/tutorials)
+- [Dacade](https://dacade.org)
+- [Figment](https://learn.figment.io)
+- [Finematics](https://finematics.com)
+- [Cryptozombies](https://cryptozombies.io)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [vyper.fun](https://vyper.fun/lessons.html#)
+- [Capture the ether](https://capturetheether.com/)
+
 
