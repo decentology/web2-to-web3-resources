@@ -167,9 +167,9 @@ Solana's [Github repositories](https://github.com/solana-labs/solana)
 | [Dacade](https://dacade.org)                               |
 | [Figment](https://learn.figment.io)                        |
 | [Finematics](https://finematics.com)                       |
-| [Cryptozombies](https://cryptozombies.io) |
-| [Ethernaut](https://ethernaut.openzeppelin.com/) |
+| [Cryptozombies](https://cryptozombies.io)                  |
+| [Ethernaut](https://ethernaut.openzeppelin.com/)           |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
 | [vyper.fun](https://vyper.fun/lessons.html#)               |
-| [Capture the ether](https://capturetheether.com/)        |
+| [Capture the ether](https://capturetheether.com/)          |
 
