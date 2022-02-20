@@ -66,6 +66,7 @@ Trust, reliability, security, efficiency
 - [🎟 NFT on 💜 Polygon + 🐳 Opensea](https://www.youtube.com/watch?v=zgj8ZT4-9lk)
 - [VyperFun](https://vyper.fun/#/)
 - [BuildSpace](https://buildspace.so/)
+- [What Does It Mean To Mint An NFT?](https://remote3.co/blog-post/what-does-it-mean-to-mint-an-nft)
 
 # Cryptocurrency
 ([Go to top](#web2-to-web3-resources))
@@ -77,6 +78,7 @@ Trust, reliability, security, efficiency
 - [The Basics of Bitcoins and Blockchains by Antony Lewis](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001/ref=sr_1_8?dchild=1&keywords=cryptocurrency&qid=1634138989&sr=8-8)
 - [Blockchain and Money by MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
 - [Epicenter podcast](https://epicenter.tv/)
+- [What Are Gas Fees In Crypto?](https://remote3.co/blog-post/what-are-gas-fees-in-crypto)
 
 # Decentralized Autonomous Organizations
 ([Go to top](#web2-to-web3-resources))
@@ -104,7 +106,7 @@ Flow's [GitHub repositories](https://github.com/onflow)
 - [Understanding Cadence](https://docs.onflow.org/cadence/tutorial/01-first-steps/)
 - [Learn Cadence - Hello World on Flow- an instructional on coding language of Flow Blockchain!](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [CryptoDappy](https://www.cryptodappy.com/)
-- 
+- [Learn to Create an NFT Minting dApp](https://remote3.co/learn/getting-started-create-an-nft-minting-website)
 
 ### Docs
 - [Cadence](https://docs.onflow.org/cadence/language/)
